@@ -1,0 +1,7 @@
+{
+  "type": "Earthquake",
+  "location": "Los Angeles, CA",
+  "magnitude": 7.2,
+  "flood_level": 0,
+  "timestamp": "2025-03-19T10:30:00Z"
+}
